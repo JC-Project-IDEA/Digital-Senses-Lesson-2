@@ -11,4 +11,4 @@ https://p5js.org/
 https://editor.p5js.org/chanlongfunglazarus/collections/otInu0Bmz
 
 3. 課堂Slide:
-[JC-IDEA (Student's Section) Week1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Week-1/files/10738796/JC-IDEA.Student.s.Section.Week1.pdf)
+[JC-IDEA (Student's Section) Week1.pdf](https://github.com/JC-Project-IDEA/Digital-Senses-Week-2/files/10738796/JC-IDEA.Student.s.Section.Week2.pdf)
